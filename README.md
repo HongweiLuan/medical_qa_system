@@ -217,5 +217,5 @@ For simpler or well-documented topics (e.g., common cold treatment), gains are s
 python medical_qa_pipeline.py
 ```
 ## Note
-I did not use AI assistance for this project
+I did not use AI assistance for this project. pre-commit is not complete for the sake of time. 
 
