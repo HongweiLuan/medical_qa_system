@@ -1,0 +1,8 @@
+numpy
+pandas
+torch>=2.0
+scikit-learn
+tqdm
+rank-bm25
+sentence-transformers
+matplotlib
